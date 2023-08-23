@@ -1,2 +1,2 @@
-# Ordinary Differential Equation
-Kode MATLAB penyelesaian persamaan diferensial biasa
+# Numerical Methods using MATLAB (Ordinary differential Equations)
+MATLAB code of solving the ODE
